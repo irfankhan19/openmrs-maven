@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12743/openmrs/branches/maven/api/src/test/resources/org/openmrs/reporting/export/include
+END
+DataExportTest-patients.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/12743/openmrs/branches/maven/api/src/test/resources/org/openmrs/reporting/export/include/DataExportTest-patients.xml
+END
+DataExportTest-obs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/12743/openmrs/branches/maven/api/src/test/resources/org/openmrs/reporting/export/include/DataExportTest-obs.xml
+END

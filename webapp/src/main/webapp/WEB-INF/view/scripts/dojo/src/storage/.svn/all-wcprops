@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/storage
+END
+__package__.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/storage/__package__.js
+END
+dashboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/storage/dashboard.js
+END
+storage_dialog.fla
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/storage/storage_dialog.fla
+END
+Storage.as
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/storage/Storage.as
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/storage/browser.js
+END

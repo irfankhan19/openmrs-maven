@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/lfx
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/lfx/html.js
+END
+extras.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/lfx/extras.js
+END
+__package__.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/lfx/__package__.js
+END
+Animation.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/lfx/Animation.js
+END
+toggle.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/lfx/toggle.js
+END

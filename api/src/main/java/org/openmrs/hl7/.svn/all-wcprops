@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7
+END
+HL7InArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7/HL7InArchive.java
+END
+HL7InQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7/HL7InQueue.java
+END
+HL7InQueueProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7/HL7InQueueProcessor.java
+END
+HL7Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7/HL7Constants.java
+END
+HL7Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7/HL7Util.java
+END
+HL7InError.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7/HL7InError.java
+END
+HL7Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7/HL7Service.java
+END
+HL7Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7/HL7Source.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/hl7/package.html
+END

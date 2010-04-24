@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts
+END
+drugOrder.js.withjstl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/drugOrder.js.withjstl
+END
+easyAjax.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/easyAjax.js
+END
+dojoUserSearchIncludes.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojoUserSearchIncludes.js
+END
+initialsetup.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/initialsetup.js
+END
+obs.js.withjstl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/obs.js.withjstl
+END
+validation.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/validation.js
+END
+dojoConfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojoConfig.js
+END

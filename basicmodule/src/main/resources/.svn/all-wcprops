@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/12453/openmrs/branches/maven/basicmodule/src/main/resources
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12453/openmrs/branches/maven/basicmodule/src/main/resources/messages.properties
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/12453/openmrs/branches/maven/basicmodule/src/main/resources/config.xml
+END
+sqldiff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/12453/openmrs/branches/maven/basicmodule/src/main/resources/sqldiff.xml
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12453/openmrs/branches/maven/basicmodule/src/main/resources/messages_es.properties
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12453/openmrs/branches/maven/basicmodule/src/main/resources/messages_fr.properties
+END
+moduleApplicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12453/openmrs/branches/maven/basicmodule/src/main/resources/moduleApplicationContext.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/scheduler/db/hibernate
+END
+TaskDefinition.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/scheduler/db/hibernate/TaskDefinition.hbm.xml
+END
+Schedule.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/scheduler/db/hibernate/Schedule.hbm.xml
+END

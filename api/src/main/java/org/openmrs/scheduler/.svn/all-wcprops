@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler
+END
+SchedulerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler/SchedulerService.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler/Task.java
+END
+StatefulTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler/StatefulTask.java
+END
+TaskFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler/TaskFactory.java
+END
+SchedulerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler/SchedulerConstants.java
+END
+TaskDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler/TaskDefinition.java
+END
+Schedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler/Schedule.java
+END
+SchedulerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler/SchedulerUtil.java
+END
+SchedulerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/scheduler/SchedulerException.java
+END

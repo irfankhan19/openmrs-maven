@@ -1,0 +1,121 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+   <parent>
+      <groupId>org.openmrs</groupId>
+      <artifactId>openmrs</artifactId>
+      <version>1.6.0-SNAPSHOT</version>
+   </parent>
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>org.openmrs.module</groupId>
+   <artifactId>basicmodule</artifactId>
+   <version>1.0-SNAPSHOT</version>
+   <packaging>omod</packaging>
+   <name>Basic Module</name>
+   <description>Basic Module. Useful for creating other modules.</description>
+
+   <url>http://openmrs.org/wiki/Creating_Your_First_OpenMRS_Module</url>
+
+   <organization>
+      <name>OpenMRS</name>
+      <url>http://www.openmrs.org</url>
+   </organization>
+
+   <developers>
+      <developer>
+         <id>bwolfe</id>
+         <name>Ben Wolfe</name>
+         <email>ben@openmrs.org</email>
+         <timezone>-5</timezone>
+      </developer>
+   </developers>
+
+   <repositories>
+      <repository>
+         <id>motech-repo</id>
+         <name>Motech Maven Repository</name>
+         <url>http://motech.rcg.usm.maine.edu/archiva/repository/all</url>
+      </repository>
+   </repositories>
+
+   <pluginRepositories>
+      <pluginRepository>
+         <id>motech-repo</id>
+         <name>Motech Maven Repository</name>
+         <url>http://motech.rcg.usm.maine.edu/archiva/repository/all</url>
+         <snapshots>
+            <enabled>true</enabled>
+         </snapshots>
+      </pluginRepository>
+   </pluginRepositories>
+
+   <dependencies>
+      <dependency>
+         <groupId>org.openmrs.api</groupId>
+         <artifactId>openmrs-api</artifactId>
+         <version>${openMRSVersion}</version>
+         <type>jar</type>
+         <scope>provided</scope>
+      </dependency>
+      <dependency>
+         <groupId>org.openmrs.api</groupId>
+         <artifactId>openmrs-api</artifactId>
+         <version>${openMRSVersion}</version>
+         <type>test-jar</type>
+         <scope>test</scope>
+      </dependency>
+      <dependency>
+         <groupId>org.openmrs.web</groupId>
+         <artifactId>openmrs-web</artifactId>
+         <version>${openMRSVersion}</version>
+         <type>jar</type>
+         <scope>provided</scope>
+      </dependency>
+      <dependency>
+         <groupId>org.openmrs.web</groupId>
+         <artifactId>openmrs-web</artifactId>
+         <version>${openMRSVersion}</version>
+         <type>test-jar</type>
+         <scope>test</scope>
+      </dependency>
+   </dependencies>
+
+   <properties>
+      <openMRSVersion>${project.parent.version}</openMRSVersion>
+      <moduleId>${project.artifactId}</moduleId>
+      <modulePackage>${project.groupId}.${project.artifactId}</modulePackage>
+   </properties>
+
+   <build>
+      <resources>
+         <resource>
+            <directory>src/main/resources</directory>
+            <filtering>true</filtering>
+         </resource>
+      </resources>
+      <testResources>
+         <testResource>
+            <directory>src/test/resources</directory>
+            <filtering>true</filtering>
+         </testResource>
+      </testResources>
+      <pluginManagement>
+         <plugins>
+            <plugin>
+               <artifactId>maven-resources-plugin</artifactId>
+               <configuration>
+                  <includeEmptyDirs>true</includeEmptyDirs>
+               </configuration>
+            </plugin>
+         </plugins>
+      </pluginManagement>
+      <plugins>
+         <plugin>
+            <groupId>org.motech.openmrs.plugin</groupId>
+            <artifactId>maven-openmrs-plugin</artifactId>
+            <version>1.0-RC4</version>
+            <extensions>true</extensions>
+         </plugin>
+      </plugins>
+   </build>
+
+</project>

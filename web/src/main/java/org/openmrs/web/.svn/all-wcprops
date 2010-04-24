@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/12908/openmrs/branches/maven/web/src/main/java/org/openmrs/web
+END
+OpenmrsCookieLocaleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/OpenmrsCookieLocaleResolver.java
+END
+OptionsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/OptionsForm.java
+END
+Listener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/12908/openmrs/branches/maven/web/src/main/java/org/openmrs/web/Listener.java
+END
+WebConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/WebConstants.java
+END
+DispatcherServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/DispatcherServlet.java
+END
+WebUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/WebUtil.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/hl7/db/hibernate
+END
+HL7InError.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/hl7/db/hibernate/HL7InError.hbm.xml
+END
+HL7Source.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/hl7/db/hibernate/HL7Source.hbm.xml
+END
+HL7InArchive.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/hl7/db/hibernate/HL7InArchive.hbm.xml
+END
+HL7InQueue.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/hl7/db/hibernate/HL7InQueue.hbm.xml
+END

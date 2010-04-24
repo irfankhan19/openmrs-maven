@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/resources
+END
+liquibase-demo-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/resources/liquibase-demo-data.xml
+END
+velocity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/resources/velocity.properties
+END
+liquibase-core-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/resources/liquibase-core-data.xml
+END
+liquibase-schema-only.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/resources/liquibase-schema-only.xml
+END
+standard_theme.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/resources/standard_theme.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/resources/log4j.xml
+END

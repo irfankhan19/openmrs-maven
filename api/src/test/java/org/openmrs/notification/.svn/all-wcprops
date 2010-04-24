@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/12743/openmrs/branches/maven/api/src/test/java/org/openmrs/notification
+END
+MessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/notification/MessageTest.java
+END
+MessageServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/notification/MessageServiceTest.java
+END

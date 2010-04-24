@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/java/org/openmrs/web/filter
+END
+GZIPFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/filter/GZIPFilter.java
+END
+GZIPResponseStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/filter/GZIPResponseStream.java
+END
+StartupFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/filter/StartupFilter.java
+END
+GZIPResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/filter/GZIPResponseWrapper.java
+END
+OpenmrsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/filter/OpenmrsFilter.java
+END

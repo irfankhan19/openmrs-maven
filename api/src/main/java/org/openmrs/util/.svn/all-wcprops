@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util
+END
+FormConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/FormConstants.java
+END
+OpenmrsClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/OpenmrsClassLoader.java
+END
+FormUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/FormUtil.java
+END
+InsertedOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/InsertedOrderComparator.java
+END
+Security.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/Security.java
+END
+OpenmrsMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/OpenmrsMemento.java
+END
+VelocityExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/VelocityExceptionHandler.java
+END
+HandlerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/HandlerUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/package.html
+END
+InputRequiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/InputRequiredException.java
+END
+AttributableDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/AttributableDate.java
+END
+NaturalStrings.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/NaturalStrings.java
+END
+OpenmrsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/OpenmrsConstants.java
+END
+OpenmrsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/OpenmrsUtil.java
+END
+LocaleUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/LocaleUtility.java
+END
+DatabaseUpdateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/DatabaseUpdateException.java
+END
+MemoryAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/MemoryAppender.java
+END
+DoubleRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/DoubleRange.java
+END
+TestTypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/TestTypeFilter.java
+END
+Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/Format.java
+END
+DatabaseUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/util/DatabaseUpdater.java
+END

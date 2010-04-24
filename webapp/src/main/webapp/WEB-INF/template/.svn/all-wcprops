@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template
+END
+banner.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template/banner.jsp
+END
+footerMinimal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template/footerMinimal.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template/header.jsp
+END
+gutter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template/gutter.jsp
+END
+headerFull.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template/headerFull.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template/footer.jsp
+END
+headerMinimal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template/headerMinimal.jsp
+END
+footerFull.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template/footerFull.jsp
+END
+include.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/template/include.jsp
+END

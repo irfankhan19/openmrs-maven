@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic
+END
+LogicCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic/LogicCriteria.java
+END
+LogicContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic/LogicContext.java
+END
+Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic/Duration.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic/Rule.java
+END
+LogicTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic/LogicTransform.java
+END
+LogicException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic/LogicException.java
+END
+LogicExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic/LogicExpression.java
+END
+LogicService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic/LogicService.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/logic/package.html
+END

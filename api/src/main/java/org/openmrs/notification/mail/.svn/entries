@@ -1,0 +1,44 @@
+10
+
+dir
+13088
+http://svn.openmrs.org/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/mail
+http://svn.openmrs.org
+
+
+
+2010-01-07T06:37:54.650072Z
+11631
+jmiranda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5bac5841-c719-aa4e-b3fe-cce5062f897a
+
+MailMessageSender.java
+file
+
+
+
+
+2010-04-15T04:54:01.000000Z
+b13485e785889a3ac9adaee8341a0c00
+2010-01-07T06:37:54.650072Z
+11631
+jmiranda
+has-props
+
+velocity
+dir
+

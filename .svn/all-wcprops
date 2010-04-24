@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/12994/openmrs/branches/maven
+END
+lib-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/12422/openmrs/branches/maven/lib-readme.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/12411/openmrs/branches/maven/license.txt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/12411/openmrs/branches/maven/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/12988/openmrs/branches/maven/pom.xml
+END
+liquibase.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/12411/openmrs/branches/maven/liquibase.build.xml
+END
+properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/12411/openmrs/branches/maven/properties.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/12411/openmrs/branches/maven/readme.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/12419/openmrs/branches/maven/build.xml
+END

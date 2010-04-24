@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/12743/openmrs/branches/maven/api/src/test/java/org/openmrs/reporting
+END
+ReportObjectServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/reporting/ReportObjectServiceTest.java
+END
+CachingPatientFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/reporting/CachingPatientFilterTest.java
+END
+PatientFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/reporting/PatientFilterTest.java
+END

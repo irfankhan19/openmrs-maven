@@ -1,0 +1,124 @@
+10
+
+dir
+13088
+http://svn.openmrs.org/openmrs/branches/maven/web/src/main/java/org/openmrs/web
+http://svn.openmrs.org
+
+
+
+2010-04-09T20:18:30.475691Z
+12908
+mblanchette
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5bac5841-c719-aa4e-b3fe-cce5062f897a
+
+OpenmrsCookieLocaleResolver.java
+file
+
+
+
+
+2010-04-15T04:54:35.000000Z
+9d9a2823a779387a9f9136e1b16bee90
+2008-12-30T16:50:45.053711Z
+6481
+bwolfe
+has-props
+
+OptionsForm.java
+file
+
+
+
+
+2010-04-15T04:54:35.000000Z
+a041b633d34d36a3582c1614fc5e520e
+2009-03-30T14:44:58.144557Z
+7207
+bwolfe
+has-props
+
+taglib
+dir
+
+controller
+dir
+
+servlet
+dir
+
+filter
+dir
+
+Listener.java
+file
+
+
+
+
+2010-04-15T04:54:35.000000Z
+477f7c776ddd5a885061b2917b260c6e
+2010-04-09T20:18:30.475691Z
+12908
+mblanchette
+has-props
+
+WebConstants.java
+file
+
+
+
+
+2010-04-15T04:54:35.000000Z
+8fe5fd88555f241716d9a71a658d8593
+2009-07-23T19:43:08.829509Z
+9367
+bwolfe
+has-props
+
+DispatcherServlet.java
+file
+
+
+
+
+2010-04-15T04:54:35.000000Z
+63a0201528789a4f58fb1c2d247d4248
+2009-10-27T06:43:09.120540Z
+10921
+bwolfe
+has-props
+
+WebUtil.java
+file
+
+
+
+
+2010-04-15T04:54:35.000000Z
+37ff0d962ef317880c5475ac3d56a079
+2010-01-22T22:26:54.920373Z
+11807
+bwolfe
+has-props
+
+dwr
+dir
+
+user
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/notification/db/hibernate
+END
+Template.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/notification/db/hibernate/Template.hbm.xml
+END
+Alert.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/notification/db/hibernate/Alert.hbm.xml
+END
+AlertRecipient.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/org/openmrs/notification/db/hibernate/AlertRecipient.hbm.xml
+END

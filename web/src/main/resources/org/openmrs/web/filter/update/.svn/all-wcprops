@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/update
+END
+footer.vm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/update/footer.vm
+END
+maintenance.vm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/update/maintenance.vm
+END
+header.vm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/update/header.vm
+END
+reviewchanges.vm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/update/reviewchanges.vm
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization
+END
+footer.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization/footer.vm
+END
+databasetablesanduser.vm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization/databasetablesanduser.vm
+END
+otherruntimeproperties.vm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization/otherruntimeproperties.vm
+END
+implementationidsetup.vm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization/implementationidsetup.vm
+END
+progress.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization/progress.vm
+END
+databasesetup.vm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization/databasesetup.vm
+END
+adminusersetup.vm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization/adminusersetup.vm
+END
+header.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization/header.vm
+END
+wizardcomplete.vm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/12740/openmrs/branches/maven/web/src/main/resources/org/openmrs/web/filter/initialization/wizardcomplete.vm
+END

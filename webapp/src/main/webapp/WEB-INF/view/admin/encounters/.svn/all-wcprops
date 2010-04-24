@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/encounters
+END
+encounterForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/encounters/encounterForm.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/encounters/index.jsp
+END
+encounterTypeForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/encounters/encounterTypeForm.jsp
+END
+obsDisplay.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/encounters/obsDisplay.jsp
+END
+encounterTypeList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/encounters/encounterTypeList.jsp
+END
+localHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/encounters/localHeader.jsp
+END

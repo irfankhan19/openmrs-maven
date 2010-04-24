@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification
+END
+MessageException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/MessageException.java
+END
+NotificationConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/NotificationConstants.java
+END
+MessagePreparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/MessagePreparator.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/Message.java
+END
+Note.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/Note.java
+END
+MessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/MessageService.java
+END
+MessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/MessageSender.java
+END
+NoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/NoteService.java
+END
+NoteType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/NoteType.java
+END
+Alert.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/Alert.java
+END
+AlertService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/AlertService.java
+END
+AlertRecipient.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/AlertRecipient.java
+END
+Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/notification/Template.java
+END

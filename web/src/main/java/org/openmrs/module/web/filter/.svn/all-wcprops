@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/module/web/filter
+END
+ModuleFilterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/module/web/filter/ModuleFilterConfig.java
+END
+ModuleFilterDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/module/web/filter/ModuleFilterDefinition.java
+END
+ModuleFilterMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/module/web/filter/ModuleFilterMapping.java
+END
+ModuleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/module/web/filter/ModuleFilter.java
+END
+ModuleFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/module/web/filter/ModuleFilterChain.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/logic/result
+END
+EmptyResultTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/logic/result/EmptyResultTest.java
+END
+ResultTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/logic/result/ResultTest.java
+END

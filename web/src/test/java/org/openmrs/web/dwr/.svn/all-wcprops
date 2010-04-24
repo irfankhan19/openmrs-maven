@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/12743/openmrs/branches/maven/web/src/test/java/org/openmrs/web/dwr
+END
+PersonListItemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/12419/openmrs/branches/maven/web/src/test/java/org/openmrs/web/dwr/PersonListItemTest.java
+END
+DWRPatientServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12419/openmrs/branches/maven/web/src/test/java/org/openmrs/web/dwr/DWRPatientServiceTest.java
+END
+DWRPersonServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12419/openmrs/branches/maven/web/src/test/java/org/openmrs/web/dwr/DWRPersonServiceTest.java
+END

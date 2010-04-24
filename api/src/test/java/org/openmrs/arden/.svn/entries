@@ -1,0 +1,44 @@
+10
+
+dir
+13088
+http://svn.openmrs.org/openmrs/branches/maven/api/src/test/java/org/openmrs/arden
+http://svn.openmrs.org
+
+
+
+2010-03-31T04:26:29.715753Z
+12743
+mblanchette
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5bac5841-c719-aa4e-b3fe-cce5062f897a
+
+include
+dir
+
+ArdenServiceTest.java
+file
+
+
+
+
+2010-04-15T04:53:44.000000Z
+6b1b45f284241f11c04271e1d8cb9b03
+2009-03-27T20:10:24.354705Z
+7190
+bwolfe
+has-props
+

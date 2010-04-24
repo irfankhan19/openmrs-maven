@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/forms/include
+END
+fieldEdit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/forms/include/fieldEdit.jsp
+END
+formFieldEdit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/forms/include/formFieldEdit.jsp
+END

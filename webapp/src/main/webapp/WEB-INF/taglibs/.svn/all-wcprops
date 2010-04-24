@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/taglibs
+END
+response.tld
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/taglibs/response.tld
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/taglibs/spring.tld
+END
+fn.tld
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/taglibs/fn.tld
+END
+openmrs.tld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/taglibs/openmrs.tld
+END
+spring-form.tld
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/taglibs/spring-form.tld
+END
+c-rt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/taglibs/c-rt.tld
+END
+request.tld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/taglibs/request.tld
+END
+page.tld
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/taglibs/page.tld
+END

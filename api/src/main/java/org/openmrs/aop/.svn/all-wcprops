@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/aop
+END
+LoggingAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/aop/LoggingAdvice.java
+END
+RequiredDataAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/aop/RequiredDataAdvice.java
+END
+AuthorizationAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/aop/AuthorizationAdvice.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/aop/package.html
+END

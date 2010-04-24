@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/xml
+END
+__package__.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/xml/__package__.js
+END
+Parse.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/xml/Parse.js
+END
+domUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/xml/domUtil.js
+END
+svgUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/xml/svgUtil.js
+END
+htmlUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/xml/htmlUtil.js
+END

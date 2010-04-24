@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/12903/openmrs/branches/maven/api/src/main/resources
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/ehcache.xml
+END
+hibernate.default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/hibernate.default.properties
+END
+update-to-1.4.2.01-db.mysqldiff.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/update-to-1.4.2.01-db.mysqldiff.sql
+END
+applicationContext-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/applicationContext-service.xml
+END
+c3p0-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/c3p0-config.xml
+END
+liquibase-update-to-latest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/liquibase-update-to-latest.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/resources/hibernate.cfg.xml
+END

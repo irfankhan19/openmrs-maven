@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/jquery/autocomplete
+END
+jquery.autocomplete.css
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/jquery/autocomplete/jquery.autocomplete.css
+END
+jquery.autocomplete.pack.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/jquery/autocomplete/jquery.autocomplete.pack.js
+END
+jquery.autocomplete.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/jquery/autocomplete/jquery.autocomplete.js
+END
+jquery.autocomplete.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/jquery/autocomplete/jquery.autocomplete.min.js
+END

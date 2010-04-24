@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user
+END
+RoleListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user/RoleListController.java
+END
+UserValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user/UserValidator.java
+END
+PrivilegeListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user/PrivilegeListController.java
+END
+UserFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user/UserFormController.java
+END
+RoleValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user/RoleValidator.java
+END
+RoleFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user/RoleFormController.java
+END
+PrivilegeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user/PrivilegeValidator.java
+END
+PrivilegeFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user/PrivilegeFormController.java
+END
+UserListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/user/UserListController.java
+END

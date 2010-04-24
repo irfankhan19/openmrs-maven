@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12743/openmrs/branches/maven/web/src/test/resources/org/openmrs/web/include
+END
+ConceptFormControllerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/12743/openmrs/branches/maven/web/src/test/resources/org/openmrs/web/include/ConceptFormControllerTest.xml
+END
+users-who-are-patients.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12743/openmrs/branches/maven/web/src/test/resources/org/openmrs/web/include/users-who-are-patients.xml
+END
+ForgotPasswordFormControllerTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/12743/openmrs/branches/maven/web/src/test/resources/org/openmrs/web/include/ForgotPasswordFormControllerTest.xml
+END

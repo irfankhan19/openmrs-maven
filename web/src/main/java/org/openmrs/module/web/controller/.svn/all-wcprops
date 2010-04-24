@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/module/web/controller
+END
+ModuleListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/module/web/controller/ModuleListController.java
+END
+ModulePropertiesFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/module/web/controller/ModulePropertiesFormController.java
+END

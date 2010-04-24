@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/rpc
+END
+RpcService.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/rpc/RpcService.js
+END
+yahoo.smd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/rpc/yahoo.smd
+END
+__package__.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/rpc/__package__.js
+END
+JsonService.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/rpc/JsonService.js
+END
+JotService.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/rpc/JotService.js
+END
+Deferred.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/rpc/Deferred.js
+END
+YahooService.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/rpc/YahooService.js
+END

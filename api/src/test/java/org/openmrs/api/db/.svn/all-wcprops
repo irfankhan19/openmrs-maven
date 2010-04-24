@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12743/openmrs/branches/maven/api/src/test/java/org/openmrs/api/db
+END
+EncounterDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/db/EncounterDAOTest.java
+END
+SerializedObjectDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/db/SerializedObjectDAOTest.java
+END
+ContextDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/db/ContextDAOTest.java
+END

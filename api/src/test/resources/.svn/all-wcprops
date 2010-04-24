@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/12906/openmrs/branches/maven/api/src/test/resources
+END
+TestingApplicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/resources/TestingApplicationContext.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/12906/openmrs/branches/maven/api/src/test/resources/log4j.xml
+END

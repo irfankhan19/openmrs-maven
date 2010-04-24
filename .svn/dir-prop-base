@@ -1,0 +1,29 @@
+K 15
+svn:eol-default
+V 127
+*.xml: CRLF
+*.java: CRLF
+*.js*: CRLF
+*.htm*: CRLF
+*.txt: CRLF
+*.properties: CRLF
+*.sql: CRLF
+*.sh: CRLF
+*.tld: CRLF
+*.tag: CRLF
+K 10
+svn:ignore
+V 95
+build*
+dist*
+${env.CATALINA_HOME}
+docs
+.metadata
+setup.inf
+setup.rpt
+.hg
+.hgignore
+dist
+target
+
+END

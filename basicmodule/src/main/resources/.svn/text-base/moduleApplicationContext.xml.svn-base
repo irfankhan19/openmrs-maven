@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<!-- Beans to add to the current Application context definition -->
+  
+<beans>
+	
+    <bean id="basicmoduleUrlMapping" class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+    	<property name="mappings">
+            <props>
+	           <prop key="module/${moduleId}/basicmoduleLink.form">basicmoduleFormController</prop>
+	    	</props>
+		</property>
+    </bean>
+	
+    <!-- Controllers -->
+	
+    <bean id="basicmoduleFormController" class="${modulePackage}.web.controller.BasicModuleFormController">
+		<property name="commandName"><value>thePatientList</value></property>
+		<property name="formView"><value>/module/${moduleId}/basicmoduleForm</value></property>
+		<property name="successView"><value>basicmoduleLink.form</value></property>
+    </bean>
+	
+    <!-- /Controllers -->
+</beans>

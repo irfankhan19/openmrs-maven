@@ -1,0 +1,8 @@
+openmrs.ipr
+openmrs.iml
+openmrs.iws
+lucene
+*.war
+*.class
+*.jar
+

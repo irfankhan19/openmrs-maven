@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test
+END
+BaseModuleContextSensitiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/BaseModuleContextSensitiveTest.java
+END
+SkipBaseSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/SkipBaseSetup.java
+END
+CreateInitialDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/CreateInitialDataSet.java
+END
+StartModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/StartModule.java
+END
+CreateCoreUuids.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/CreateCoreUuids.java
+END
+SkipBaseSetupAnnotationExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/SkipBaseSetupAnnotationExecutionListener.java
+END
+BaseContextSensitiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/BaseContextSensitiveTest.java
+END
+Verifies.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/Verifies.java
+END
+StartModuleExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/StartModuleExecutionListener.java
+END
+TestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/TestUtil.java
+END
+MigrateDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/MigrateDataSet.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/12903/openmrs/branches/maven/api/src/test/java/org/openmrs/test/package.html
+END

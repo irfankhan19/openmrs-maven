@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12743/openmrs/branches/maven/web/src/test/resources/org/openmrs/web/controller/include
+END
+PortletControllerTest-bmi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/12743/openmrs/branches/maven/web/src/test/resources/org/openmrs/web/controller/include/PortletControllerTest-bmi.xml
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/12743/openmrs/branches/maven/api/src/test/java/org/openmrs/api
+END
+UserServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/UserServiceTest.java
+END
+CohortServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/CohortServiceTest.java
+END
+PatientSetServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/PatientSetServiceTest.java
+END
+ProgramWorkflowServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/ProgramWorkflowServiceTest.java
+END
+EncounterServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/EncounterServiceTest.java
+END
+ObsServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/ObsServiceTest.java
+END
+FormServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/FormServiceTest.java
+END
+PatientServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/PatientServiceTest.java
+END
+AdministrationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/AdministrationServiceTest.java
+END
+PersonServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/PersonServiceTest.java
+END
+LocationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/LocationServiceTest.java
+END
+ConceptServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/ConceptServiceTest.java
+END
+OrderServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/12419/openmrs/branches/maven/api/src/test/java/org/openmrs/api/OrderServiceTest.java
+END

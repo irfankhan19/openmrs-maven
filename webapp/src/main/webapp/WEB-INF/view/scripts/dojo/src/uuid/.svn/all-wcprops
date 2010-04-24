@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/uuid
+END
+TimeBasedGenerator.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/uuid/TimeBasedGenerator.js
+END
+LightweightGenerator.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/uuid/LightweightGenerator.js
+END
+NameBasedGenerator.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/uuid/NameBasedGenerator.js
+END
+Uuid.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/uuid/Uuid.js
+END
+RandomGenerator.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/uuid/RandomGenerator.js
+END
+__package__.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/uuid/__package__.js
+END
+NilGenerator.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/uuid/NilGenerator.js
+END

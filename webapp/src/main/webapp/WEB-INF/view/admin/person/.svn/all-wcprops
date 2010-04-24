@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person
+END
+relationshipForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/relationshipForm.jsp
+END
+relationshipTypeForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/relationshipTypeForm.jsp
+END
+personAttributeTypeList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/personAttributeTypeList.jsp
+END
+entryError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/entryError.jsp
+END
+relationshipList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/relationshipList.jsp
+END
+addPerson.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/addPerson.jsp
+END
+relationshipTypeList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/relationshipTypeList.jsp
+END
+personAttributeTypeForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/personAttributeTypeForm.jsp
+END
+relationshipTypeViewForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/relationshipTypeViewForm.jsp
+END
+localHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/admin/person/localHeader.jsp
+END

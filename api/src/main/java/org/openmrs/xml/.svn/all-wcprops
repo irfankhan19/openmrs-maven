@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/xml
+END
+OpenmrsReferenceLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/xml/OpenmrsReferenceLogic.java
+END
+OpenmrsLabelLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/xml/OpenmrsLabelLogic.java
+END
+OpenmrsCycleStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/xml/OpenmrsCycleStrategy.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/12677/openmrs/branches/maven/webapp/src/main/webapp
+END
+errorhandler.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/errorhandler.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/index.jsp
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/style.css
+END
+memoryUsage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/memoryUsage.jsp
+END
+initialsetup
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/initialsetup
+END
+openmrs.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/openmrs.css
+END
+openmrs.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/openmrs.js
+END

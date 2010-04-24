@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/12677/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF
+END
+dwr-modules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/dwr-modules.xml
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/messages.properties
+END
+messages_pt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/messages_pt.properties
+END
+openmrs_static_content-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/openmrs_static_content-servlet.xml
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/messages_es.properties
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/messages_fr.properties
+END
+dwr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/dwr.xml
+END
+messages_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/messages_en_GB.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/web.xml
+END
+messages_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/messages_it.properties
+END

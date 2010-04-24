@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs
+END
+EncounterSearch.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/EncounterSearch.js
+END
+FieldSearch.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/FieldSearch.js
+END
+UserSearch.js.withjstl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/UserSearch.js.withjstl
+END
+LocationSearch.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/LocationSearch.js
+END
+OpenmrsPopup.js.withjstl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/OpenmrsPopup.js.withjstl
+END
+ObsSearch.js.withjstl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/ObsSearch.js.withjstl
+END
+OpenmrsSearch.js.withjstl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/OpenmrsSearch.js.withjstl
+END
+ConceptSearch.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/ConceptSearch.js
+END
+PatientSearch.js.withjstl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/PatientSearch.js.withjstl
+END
+PersonSearch.js.withjstl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/widget/openmrs/PersonSearch.js.withjstl
+END

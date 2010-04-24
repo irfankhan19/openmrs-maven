@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/validate
+END
+__package__.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/validate/__package__.js
+END
+us.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/validate/us.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/validate/common.js
+END
+de.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/validate/de.js
+END
+jp.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/validate/jp.js
+END
+datetime.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/validate/datetime.js
+END
+check.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/validate/check.js
+END
+web.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12656/openmrs/branches/maven/webapp/src/main/webapp/WEB-INF/view/scripts/dojo/src/validate/web.js
+END

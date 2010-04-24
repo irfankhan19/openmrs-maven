@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/messagesource
+END
+MutableMessageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/messagesource/MutableMessageSource.java
+END
+PresentationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/messagesource/PresentationMessage.java
+END
+MessageSourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/messagesource/MessageSourceService.java
+END
+PresentationMessageMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12419/openmrs/branches/maven/api/src/main/java/org/openmrs/messagesource/PresentationMessageMap.java
+END

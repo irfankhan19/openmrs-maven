@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/12743/openmrs/branches/maven/web/src/test/resources/org/openmrs/web/dwr/include
+END
+DWRPatientService-patientisauser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/12743/openmrs/branches/maven/web/src/test/resources/org/openmrs/web/dwr/include/DWRPatientService-patientisauser.xml
+END

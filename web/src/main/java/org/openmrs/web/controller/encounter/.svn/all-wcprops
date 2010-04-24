@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/encounter
+END
+LocationFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/encounter/LocationFormController.java
+END
+EncounterTypeListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/encounter/EncounterTypeListController.java
+END
+LocationListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/encounter/LocationListController.java
+END
+EncounterFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/encounter/EncounterFormController.java
+END
+EncounterTypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/encounter/EncounterTypeValidator.java
+END
+EncounterDisplayController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/encounter/EncounterDisplayController.java
+END
+EncounterTypeFormController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/12419/openmrs/branches/maven/web/src/main/java/org/openmrs/web/controller/encounter/EncounterTypeFormController.java
+END

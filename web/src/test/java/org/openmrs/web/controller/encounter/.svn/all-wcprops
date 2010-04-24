@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/12419/openmrs/branches/maven/web/src/test/java/org/openmrs/web/controller/encounter
+END
+LocationFormControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/12419/openmrs/branches/maven/web/src/test/java/org/openmrs/web/controller/encounter/LocationFormControllerTest.java
+END
+EncounterTypeListControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/12419/openmrs/branches/maven/web/src/test/java/org/openmrs/web/controller/encounter/EncounterTypeListControllerTest.java
+END

@@ -705,8 +705,8 @@ public class HibernatePatientDAO implements PatientDAO {
     public List<Patient> searchPatient(String name) throws ParseException {
         FullTextSession session = Search.getFullTextSession(this.sessionFactory.getCurrentSession());
         QueryParser parser = new QueryParser("givenName", new StandardAnalyzer());
-        org.apache.lucene.search.Query query = parser.parse("givenName:" + name);
-        FullTextQuery textQuery = session.createFullTextQuery(query);
+        org.apache.lucene.search.Query query = parser.parse("givenName:" + name+"~");
+        FullTextQuery textQuery = session.createFullTextQuery(query,PersonName.class);
         return textQuery.list();
     }
 

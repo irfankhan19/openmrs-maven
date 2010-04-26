@@ -33,7 +33,6 @@ import org.springframework.util.StringUtils;
  * A Person can have zero to n PersonName(s).
  */
 @Root(strict = false)
-@Indexed(index = "PersonName")
 public class PersonName extends BaseOpenmrsData implements java.io.Serializable, Cloneable, Comparable<PersonName> {
 
     public static final long serialVersionUID = 4353L;
@@ -41,7 +40,6 @@ public class PersonName extends BaseOpenmrsData implements java.io.Serializable,
     private transient static Log log = LogFactory.getLog(PersonName.class);
 
     // Fields
-    @DocumentId
     private Integer personNameId;
 
     private Person person;
@@ -50,7 +48,7 @@ public class PersonName extends BaseOpenmrsData implements java.io.Serializable,
 
     private String prefix;
 
-    @org.hibernate.search.annotations.Field(name = "givenName", store = Store.YES)
+    @org.hibernate.search.annotations.Field(name = "givenName", store = Store.NO, index=Index.TOKENIZED)
     private String givenName;
 
     private String middleName;

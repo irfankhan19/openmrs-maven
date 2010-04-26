@@ -18,6 +18,8 @@ import java.lang.reflect.Method;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.hibernate.search.annotations.Index;
+import org.hibernate.search.annotations.Store;
 import org.openmrs.util.OpenmrsUtil;
 
 /**
@@ -42,7 +44,8 @@ public class PatientIdentifier extends BaseOpenmrsData implements java.io.Serial
 	private Integer patientIdentifierId;
 	
 	private Patient patient;
-	
+
+    @org.hibernate.search.annotations.Field(name = "identifier", store = Store.NO, index= Index.TOKENIZED)    
 	private String identifier;
 	
 	private PatientIdentifierType identifierType;

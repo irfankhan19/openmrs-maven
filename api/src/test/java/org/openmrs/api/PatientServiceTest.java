@@ -1922,15 +1922,16 @@ public class PatientServiceTest extends BaseContextSensitiveTest {
         PatientService service = Context.getPatientService();
         Session session = factory.getCurrentSession();
         indexPatients(service, session);
-        List<Patient> patients = service.searchPatient("Jon");
+        List<Patient> patients = service.searchPatient("j*us");
         assertEquals(1, patients.size());
+        assertEquals("Doe",patients.get(0).getFamilyName());
     }
 
     private void indexPatients(PatientService service, Session session) {
         FullTextSession fullTextSession = Search.getFullTextSession(session);
         List<Patient> persons = service.getAllPatients();
         for (Person person : persons) {
-            fullTextSession.index(person.getPersonName());
+            fullTextSession.index(person);
         }
         fullTextSession.flushToIndexes();
     }

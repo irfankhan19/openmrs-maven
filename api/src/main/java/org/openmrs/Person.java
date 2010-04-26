@@ -48,16 +48,19 @@ import javax.persistence.Entity;
  */
 @Root(strict = false)
 @Entity
+@Indexed(index="Person")
 public class Person extends BaseOpenmrsData implements java.io.Serializable {
 	
 	private transient static final Log log = LogFactory.getLog(Person.class);
 	
 	public static final long serialVersionUID = 2L;
 
+    @DocumentId
     protected Integer personId;
 	
 	private Set<PersonAddress> addresses = null;
 
+    @IndexedEmbedded()
 	private Set<PersonName> names = null;
 	
 	private Set<PersonAttribute> attributes = null;
